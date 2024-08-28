@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1724773666 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1724862245 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenedzer.h"
+	"AdresatMenedzer.h"
+
+1703112826 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\uzytkownik.h
+	<iostream>
+
+1724774087 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1702833310 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1724863164 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\uzytkownikmenedzer.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"PlikZUzytkownikami.h"
+
+1722266156 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1718638192 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1724860266 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\plikzuzytkownikami.h
+	<iostream>
+	<fstream>
+	<vector>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+
+1715457648 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
+1722168857 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\uzytkownikmenedzer.cpp
+	"UzytkownikMenedzer.h"
+
+1724856770 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\adresatmenedzer.cpp
+	"AdresatMenedzer.h"
+
+1724861821 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\adresatmenedzer.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"PlikZAdresatami.h"
+
+1713653483 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\adresat.h
+	<iostream>
+
+1713653483 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\adresat.cpp
+	"Adresat.h"
+
+1724859580 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\plikzadresatami.h
+	<vector>
+	<fstream>
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+
+1724859580 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+
+1724856351 source:c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
+1724856351 c:\programy\codeblocks\projekty\kurs pp\21_ksiazkaobiektowo\ksiazkaadresowapp_2\pliktekstowy.h
+

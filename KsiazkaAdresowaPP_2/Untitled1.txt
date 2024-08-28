@@ -1,0 +1,14 @@
+Plan
+1. KsiążkaAdresowa - szef, ma za zadanie zlecanie czynności innym. Posiada dwóch specjalistów jako jego pola.+
+	a) UzytkownikMenedzer.+
+	b) AdresatMenedzer.+
+2. Utworzenie dodatkowego pola w konstruktorze klasy nadrzędnej - KsiążkaAdresowa, aby przyjmowała za dodatkowy parametr nazwę pliku z adresatami.+
+3. Utworzenia klasy AdresatMenedzer - kierownik produkcji.+
+ >>> WAŻNE! <<< KsiążkaAdresowa może wywoływać metody publiczne obiektów, które ma utworzone "w sobie", np.: uzytkownikMenedzer.rejestracjaUzytkownika() lub adresatMenedzer.dodajAdresata()
+
+4. Klasy UzytkownikMenedzer oraz AdresatMenedzer nie mogą się ze sobą komunikować, ponieważ nie ma między nimi zależności.
+5. Stworzenie pola idZalogowanegoUzytkownika w klasie AdresatMenedzer.
+	- zmienną idZalogowanegoUzytkownika przekazać z klasy UzytkownikMenedzer do klasy AdresatMenedzer podczas logowania +
+	- stworzyć w klasie UzytkownikMenedzer getter dla pola idZalogowanegoUzytkownika
+	- stworzyć w klasie AdresatMenedzer setter dla pola idZalogowanegoUzytkownika
+6. Stworzenie w klasie AdresatMenedzer publicznej metody pobierzAdresatowZalogowanegoUzytkownikaZPliku() i wywołanie jej w metodzie logowanieUzytkownika() w klasie KsiążkaAdresowa  - oczywiście, gdy idZalogowanegoUzytkownika w klasie AdresatMenedzer będzie już ustawione.
