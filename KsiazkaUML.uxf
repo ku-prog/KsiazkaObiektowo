@@ -28,7 +28,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>792</x>
+      <x>944</x>
       <y>0</y>
       <w>344</w>
       <h>312</h>
@@ -65,7 +65,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>472</x>
+      <x>624</x>
       <y>648</y>
       <w>264</w>
       <h>176</h>
@@ -88,7 +88,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>464</x>
+      <x>616</x>
       <y>264</y>
       <w>288</w>
       <h>296</h>
@@ -120,7 +120,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>160</x>
+      <x>312</x>
       <y>1296</y>
       <w>320</w>
       <h>144</h>
@@ -140,7 +140,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>0</x>
+      <x>152</x>
       <y>648</y>
       <w>432</w>
       <h>176</h>
@@ -164,7 +164,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>592</x>
+      <x>744</x>
       <y>176</y>
       <w>216</w>
       <h>104</h>
@@ -175,7 +175,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>288</x>
+      <x>440</x>
       <y>448</y>
       <w>192</w>
       <h>216</h>
@@ -186,7 +186,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>584</x>
+      <x>736</x>
       <y>552</y>
       <w>24</w>
       <h>112</h>
@@ -197,7 +197,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>272</x>
+      <x>424</x>
       <y>816</y>
       <w>24</w>
       <h>496</h>
@@ -208,7 +208,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1176</x>
+      <x>1328</x>
       <y>352</y>
       <w>328</w>
       <h>296</h>
@@ -242,7 +242,7 @@ AdresatMenedzer()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1128</x>
+      <x>1280</x>
       <y>176</y>
       <w>200</w>
       <h>192</h>
@@ -253,7 +253,7 @@ AdresatMenedzer()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1176</x>
+      <x>1328</x>
       <y>752</y>
       <w>272</w>
       <h>304</h>
@@ -290,7 +290,7 @@ AdresatMenedzer()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1440</x>
+      <x>1592</x>
       <y>880</y>
       <w>120</w>
       <h>24</h>
@@ -301,7 +301,7 @@ AdresatMenedzer()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1544</x>
+      <x>1696</x>
       <y>648</y>
       <w>432</w>
       <h>408</h>
@@ -343,7 +343,7 @@ AdresatMenedzer()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1496</x>
+      <x>1648</x>
       <y>440</y>
       <w>216</w>
       <h>224</h>
@@ -354,7 +354,7 @@ AdresatMenedzer()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>272</x>
+      <x>424</x>
       <y>1048</y>
       <w>1480</w>
       <h>264</h>
